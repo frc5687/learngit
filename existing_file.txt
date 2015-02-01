@@ -2,3 +2,5 @@ This is an existing file.
 This is a change to the file
 
 This is a second change.
+
+This is the 3rd change
